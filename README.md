@@ -19,3 +19,7 @@ DATASET: healthcare-dataset-stroke-data.csv(316.97 kB)
 
 Thanks to Kaggle community for providing valuable dataset. 
 
+INSIGHTS:
+
+Used Linear Regression Model to find the relationship between the age group prone to stroke through stated features in dataset. Through this model, I predicted an accuracy score of how well my model is predicting, which turned out to be 63% with the use of Random Forest regression. With further estimation using GridSearchCV for hyperparameter tuning, the accuracy score turned out to be 65%. 
+
